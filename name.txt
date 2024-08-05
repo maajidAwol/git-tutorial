@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Mahlet Dereje Haile
-=======
 Abenezer Mulugeta
->>>>>>> abenezer.add-name
